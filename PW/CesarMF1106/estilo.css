@@ -1,0 +1,49 @@
+body{
+    font-family: sans-serif;
+    text-align: center;
+}
+header{
+
+    height: 15%;
+    background-image: url('img/espaco.jpg');
+    background-size: cover;
+    color: white;
+    border: 5px dashed blue;
+    top: 0;
+    right: 0;
+    left: 0;
+    position: absolute;
+    font-size: 30pt;
+    font-weight: bolder;
+}
+article{
+    top: 15%;
+    right: 0;
+    left: 0;
+    position: absolute;
+    width: 100%;
+    background-image: url('img/circuito.jpg');
+    background-size: cover;
+    color: white;
+}
+
+table{
+    margin: auto;
+}
+td{
+    border: 2px blue dashed;
+    background-color: darkblue;
+}
+td:hover{
+    border: white 5px double;
+}
+footer{
+    bottom: 0;
+    left: 0;
+    right: 0;
+    position: fixed;
+    height: 10%;
+    font-size: 20pt;
+    background-color: black;
+    color: white;
+}
