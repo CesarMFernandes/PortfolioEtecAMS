@@ -93,7 +93,7 @@ fun AppLogin() {
                     .padding(24.dp)
             ){
                 Image(
-                    painter = painterResource(id = R.drawable.ic_launcher_background),
+                    painter = painterResource(id = R.drawable._zopkyqpggr81),
                     contentDescription = "Logo",
                     modifier = Modifier
                         .height(80.dp)
@@ -186,7 +186,7 @@ fun RegisterScreen() {
                 modifier = Modifier.padding(24.dp)
             ) {
                 Image(
-                    painter = painterResource(id = R.drawable.ic_launcher_background),
+                    painter = painterResource(id = R.drawable._zopkyqpggr81),
                     contentDescription = "Logo",
                     modifier = Modifier
                         .height(80.dp)
@@ -353,7 +353,7 @@ fun HomeScreen(userName: String = "Usuário") {
                 modifier = Modifier.padding(24.dp)
             ) {
                 Image(
-                    painter = painterResource(id = R.drawable.ic_launcher_background),
+                    painter = painterResource(id = R.drawable._zopkyqpggr81),
                     contentDescription = "Logo",
                     modifier = Modifier
                         .height(80.dp)
